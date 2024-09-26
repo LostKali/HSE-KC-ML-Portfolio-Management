@@ -1,497 +1,491 @@
 ,Sector
-MMM,Industrials
-AOS,Industrials
-ABT,Healthcare
-ABBV,Healthcare
-ACN,Technology
-ADBE,Technology
-AMD,Technology
-AES,Utilities
-AFL,Financial Services
-A,Healthcare
-APD,Basic Materials
-ABNB,Consumer Cyclical
-AKAM,Technology
-ALB,Basic Materials
-ARE,Real Estate
-ALGN,Healthcare
-ALLE,Industrials
-LNT,Utilities
-ALL,Financial Services
-GOOGL,Communication Services
-GOOG,Communication Services
-MO,Consumer Defensive
-AMZN,Consumer Cyclical
-AMCR,Consumer Cyclical
-AEE,Utilities
-AEP,Utilities
-AXP,Financial Services
-AIG,Financial Services
-AMT,Real Estate
-AWK,Utilities
-AMP,Financial Services
-AME,Industrials
-AMGN,Healthcare
-APH,Technology
-ADI,Technology
-ANSS,Technology
-AON,Financial Services
-APA,Energy
-AAPL,Technology
-AMAT,Technology
-APTV,Consumer Cyclical
-ACGL,Financial Services
-ADM,Consumer Defensive
-ANET,Technology
-AJG,Financial Services
-AIZ,Financial Services
-T,Communication Services
-ATO,Utilities
-ADSK,Technology
-ADP,Technology
-AZO,Consumer Cyclical
-AVB,Real Estate
-AVY,Consumer Cyclical
-AXON,Industrials
-BKR,Energy
-BALL,Consumer Cyclical
-BAC,Financial Services
-BK,Financial Services
-BBWI,Consumer Cyclical
-BAX,Healthcare
-BDX,Healthcare
-BBY,Consumer Cyclical
-TECH,Healthcare
-BIIB,Healthcare
-BLK,Financial Services
-BX,Financial Services
-BA,Industrials
-BKNG,Consumer Cyclical
-BWA,Consumer Cyclical
-BSX,Healthcare
-BMY,Healthcare
-AVGO,Technology
-BR,Technology
-BRO,Financial Services
-BLDR,Industrials
-BG,Consumer Defensive
-BXP,Real Estate
-CHRW,Industrials
-CDNS,Technology
-CZR,Consumer Cyclical
-CPT,Real Estate
-CPB,Consumer Defensive
-COF,Financial Services
-CAH,Healthcare
-KMX,Consumer Cyclical
-CCL,Consumer Cyclical
-CARR,Industrials
-CTLT,Healthcare
-CAT,Industrials
-CBOE,Financial Services
-CBRE,Real Estate
-CDW,Technology
-CE,Basic Materials
-COR,Healthcare
-CNC,Healthcare
-CNP,Utilities
-CF,Basic Materials
-CRL,Healthcare
-SCHW,Financial Services
-CHTR,Communication Services
-CVX,Energy
-CMG,Consumer Cyclical
-CB,Financial Services
-CHD,Consumer Defensive
-CI,Healthcare
-CINF,Financial Services
-CTAS,Industrials
-CSCO,Technology
-C,Financial Services
-CFG,Financial Services
-CLX,Consumer Defensive
-CME,Financial Services
-CMS,Utilities
-KO,Consumer Defensive
-CTSH,Technology
-CL,Consumer Defensive
-CMCSA,Communication Services
-CAG,Consumer Defensive
-COP,Energy
-ED,Utilities
-STZ,Consumer Defensive
-CEG,Utilities
-COO,Healthcare
-CPRT,Industrials
-GLW,Technology
-CPAY,Technology
-CTVA,Basic Materials
-CSGP,Real Estate
-COST,Consumer Defensive
-CTRA,Energy
-CRWD,Technology
-CCI,Real Estate
-CSX,Industrials
-CMI,Industrials
-CVS,Healthcare
-DHR,Healthcare
-DRI,Consumer Cyclical
-DVA,Healthcare
-DAY,Technology
-DECK,Consumer Cyclical
-DE,Industrials
-DELL,Technology
-DAL,Industrials
-DVN,Energy
-DXCM,Healthcare
-FANG,Energy
-DLR,Real Estate
-DFS,Financial Services
-DG,Consumer Defensive
-DLTR,Consumer Defensive
-D,Utilities
-DPZ,Consumer Cyclical
-DOV,Industrials
-DOW,Basic Materials
-DHI,Consumer Cyclical
-DTE,Utilities
-DUK,Utilities
-DD,Basic Materials
-EMN,Basic Materials
-ETN,Industrials
-EBAY,Consumer Cyclical
-ECL,Basic Materials
-EIX,Utilities
-EW,Healthcare
-EA,Communication Services
-ELV,Healthcare
-EMR,Industrials
-ENPH,Technology
-ETR,Utilities
-EOG,Energy
-EPAM,Technology
-EQT,Energy
-EFX,Industrials
-EQIX,Real Estate
-EQR,Real Estate
-ERIE,Financial Services
-ESS,Real Estate
-EL,Consumer Defensive
-EG,Financial Services
-EVRG,Utilities
-ES,Utilities
-EXC,Utilities
-EXPE,Consumer Cyclical
-EXPD,Industrials
-EXR,Real Estate
-XOM,Energy
-FFIV,Technology
-FDS,Financial Services
-FICO,Technology
-FAST,Industrials
-FRT,Real Estate
-FDX,Industrials
-FIS,Technology
-FITB,Financial Services
-FSLR,Technology
-FE,Utilities
-FI,Technology
-FMC,Basic Materials
-F,Consumer Cyclical
-FTNT,Technology
-FTV,Technology
-FOXA,Communication Services
-FOX,Communication Services
-BEN,Financial Services
-FCX,Basic Materials
-GRMN,Technology
-IT,Technology
-GE,Industrials
-GEHC,Healthcare
-GEN,Technology
-GNRC,Industrials
-GD,Industrials
-GIS,Consumer Defensive
-GM,Consumer Cyclical
-GPC,Consumer Cyclical
-GILD,Healthcare
-GPN,Industrials
-GL,Financial Services
-GDDY,Technology
-GS,Financial Services
-HAL,Energy
-HIG,Financial Services
-HAS,Consumer Cyclical
-HCA,Healthcare
-DOC,Real Estate
-HSIC,Healthcare
-HSY,Consumer Defensive
-HES,Energy
-HPE,Technology
-HLT,Consumer Cyclical
-HOLX,Healthcare
-HD,Consumer Cyclical
-HON,Industrials
-HRL,Consumer Defensive
-HST,Real Estate
-HWM,Industrials
-HPQ,Technology
-HUBB,Industrials
-HUM,Healthcare
-HBAN,Financial Services
-HII,Industrials
-IBM,Technology
-IEX,Industrials
-IDXX,Healthcare
-ITW,Industrials
-INCY,Healthcare
-IR,Industrials
-PODD,Healthcare
-INTC,Technology
-ICE,Financial Services
-IFF,Basic Materials
-IP,Consumer Cyclical
-IPG,Communication Services
-INTU,Technology
-ISRG,Healthcare
-IVZ,Financial Services
-INVH,Real Estate
-IQV,Healthcare
-IRM,Real Estate
-JBHT,Industrials
-JBL,Technology
-JKHY,Technology
-J,Industrials
-JNJ,Healthcare
-JCI,Industrials
-JPM,Financial Services
-JNPR,Technology
-K,Consumer Defensive
-KDP,Consumer Defensive
-KEY,Financial Services
-KEYS,Technology
-KMB,Consumer Defensive
-KIM,Real Estate
-KMI,Energy
-KKR,Financial Services
-KLAC,Technology
-KHC,Consumer Defensive
-KR,Consumer Defensive
-LHX,Industrials
-LH,Healthcare
-LRCX,Technology
-LW,Consumer Defensive
-LVS,Consumer Cyclical
-LDOS,Technology
-LEN,Consumer Cyclical
-LLY,Healthcare
-LIN,Basic Materials
-LYV,Communication Services
-LKQ,Consumer Cyclical
-LMT,Industrials
-L,Financial Services
-LOW,Consumer Cyclical
-LULU,Consumer Cyclical
-LYB,Basic Materials
-MTB,Financial Services
-MRO,Energy
-MPC,Energy
-MKTX,Financial Services
-MAR,Consumer Cyclical
-MMC,Financial Services
-MLM,Basic Materials
-MAS,Industrials
-MA,Financial Services
-MTCH,Communication Services
-MKC,Consumer Defensive
-MCD,Consumer Cyclical
-MCK,Healthcare
-MDT,Healthcare
-MRK,Healthcare
-META,Communication Services
-MET,Financial Services
-MTD,Healthcare
-MGM,Consumer Cyclical
-MCHP,Technology
-MU,Technology
-MSFT,Technology
-MAA,Real Estate
-MRNA,Healthcare
-MHK,Consumer Cyclical
-MOH,Healthcare
-TAP,Consumer Defensive
-MDLZ,Consumer Defensive
-MPWR,Technology
-MNST,Consumer Defensive
-MCO,Financial Services
-MS,Financial Services
-MOS,Basic Materials
-MSI,Technology
-MSCI,Financial Services
-NDAQ,Financial Services
-NTAP,Technology
-NFLX,Communication Services
-NEM,Basic Materials
-NWSA,Communication Services
-NWS,Communication Services
-NEE,Utilities
-NKE,Consumer Cyclical
-NI,Utilities
-NDSN,Industrials
-NSC,Industrials
-NTRS,Financial Services
-NOC,Industrials
-NCLH,Consumer Cyclical
-NRG,Utilities
-NUE,Basic Materials
-NVDA,Technology
-NVR,Consumer Cyclical
-NXPI,Technology
-ORLY,Consumer Cyclical
-OXY,Energy
-ODFL,Industrials
-OMC,Communication Services
-ON,Technology
-OKE,Energy
-ORCL,Technology
-OTIS,Industrials
-PCAR,Industrials
-PKG,Consumer Cyclical
-PLTR,Technology
-PANW,Technology
-PARA,Communication Services
-PH,Industrials
-PAYX,Technology
-PAYC,Technology
-PYPL,Financial Services
-PNR,Industrials
-PEP,Consumer Defensive
-PFE,Healthcare
-PCG,Utilities
-PM,Consumer Defensive
-PSX,Energy
-PNW,Utilities
-PNC,Financial Services
-POOL,Industrials
-PPG,Basic Materials
-PPL,Utilities
-PFG,Financial Services
-PG,Consumer Defensive
-PGR,Financial Services
-PLD,Real Estate
-PRU,Financial Services
-PEG,Utilities
-PTC,Technology
-PSA,Real Estate
-PHM,Consumer Cyclical
-QRVO,Technology
-PWR,Industrials
-QCOM,Technology
-DGX,Healthcare
-RL,Consumer Cyclical
-RJF,Financial Services
-RTX,Industrials
-O,Real Estate
-REG,Real Estate
-REGN,Healthcare
-RF,Financial Services
-RSG,Industrials
-RMD,Healthcare
-RVTY,Healthcare
-ROK,Industrials
-ROL,Consumer Cyclical
-ROP,Technology
-ROST,Consumer Cyclical
-RCL,Consumer Cyclical
-SPGI,Financial Services
-CRM,Technology
-SBAC,Real Estate
-SLB,Energy
-STX,Technology
-SRE,Utilities
-NOW,Technology
-SHW,Basic Materials
-SPG,Real Estate
-SWKS,Technology
-SJM,Consumer Defensive
-SNA,Industrials
-SO,Utilities
-LUV,Industrials
-SWK,Industrials
-SBUX,Consumer Cyclical
-STT,Financial Services
-STLD,Basic Materials
-STE,Healthcare
-SYK,Healthcare
-SMCI,Technology
-SYF,Financial Services
-SNPS,Technology
-SYY,Consumer Defensive
-TMUS,Communication Services
-TROW,Financial Services
-TTWO,Communication Services
-TPR,Consumer Cyclical
-TRGP,Energy
-TGT,Consumer Defensive
-TEL,Technology
-TDY,Technology
-TFX,Healthcare
-TER,Technology
-TSLA,Consumer Cyclical
-TXN,Technology
-TXT,Industrials
-TMO,Healthcare
-TJX,Consumer Cyclical
-TSCO,Consumer Cyclical
-TT,Industrials
-TDG,Industrials
-TRV,Financial Services
-TRMB,Technology
-TFC,Financial Services
-TYL,Technology
-TSN,Consumer Defensive
-USB,Financial Services
-UBER,Technology
-UDR,Real Estate
-ULTA,Consumer Cyclical
-UNP,Industrials
-UAL,Industrials
-UPS,Industrials
-URI,Industrials
-UNH,Healthcare
-UHS,Healthcare
-VLO,Energy
-VTR,Real Estate
-VRSN,Technology
-VRSK,Industrials
-VZ,Communication Services
-VRTX,Healthcare
-VTRS,Healthcare
-VICI,Real Estate
-V,Financial Services
-VST,Utilities
-VMC,Basic Materials
-WRB,Financial Services
-GWW,Industrials
-WAB,Industrials
-WBA,Healthcare
-WMT,Consumer Defensive
-DIS,Communication Services
-WBD,Communication Services
-WM,Industrials
-WAT,Healthcare
-WEC,Utilities
-WFC,Financial Services
-WELL,Real Estate
-WST,Healthcare
-WDC,Technology
-WY,Real Estate
-WMB,Energy
-WTW,Financial Services
-WYNN,Consumer Cyclical
-XEL,Utilities
-XYL,Industrials
-YUM,Consumer Cyclical
-ZBRA,Technology
-ZBH,Healthcare
-ZTS,Healthcare
+A,Unknown
+AAPL,Unknown
+ABBV,Unknown
+ABT,Unknown
+ACGL,Unknown
+ACN,Unknown
+ADBE,Unknown
+ADI,Unknown
+ADM,Unknown
+ADP,Unknown
+ADSK,Unknown
+AEE,Unknown
+AEP,Unknown
+AES,Unknown
+AFL,Unknown
+AIG,Unknown
+AIZ,Unknown
+AJG,Unknown
+AKAM,Unknown
+ALB,Unknown
+ALGN,Unknown
+ALL,Unknown
+ALLE,Unknown
+AMAT,Unknown
+AMCR,Unknown
+AMD,Unknown
+AME,Unknown
+AMGN,Unknown
+AMP,Unknown
+AMT,Unknown
+AMZN,Unknown
+ANET,Unknown
+ANSS,Unknown
+AON,Unknown
+AOS,Unknown
+APA,Unknown
+APD,Unknown
+APH,Unknown
+APTV,Unknown
+ARE,Unknown
+ATO,Unknown
+AVB,Unknown
+AVGO,Unknown
+AVY,Unknown
+AWK,Unknown
+AXON,Unknown
+AXP,Unknown
+AZO,Unknown
+BA,Unknown
+BAC,Unknown
+BALL,Unknown
+BAX,Unknown
+BBWI,Unknown
+BBY,Unknown
+BDX,Unknown
+BEN,Unknown
+BG,Unknown
+BIIB,Unknown
+BK,Unknown
+BKNG,Unknown
+BKR,Unknown
+BLDR,Unknown
+BLK,Unknown
+BMY,Unknown
+BR,Unknown
+BRO,Unknown
+BSX,Unknown
+BWA,Unknown
+BX,Unknown
+BXP,Unknown
+C,Unknown
+CAG,Unknown
+CAH,Unknown
+CAT,Unknown
+CB,Unknown
+CBOE,Unknown
+CBRE,Unknown
+CCI,Unknown
+CCL,Unknown
+CDNS,Unknown
+CDW,Unknown
+CE,Unknown
+CF,Unknown
+CFG,Unknown
+CHD,Unknown
+CHRW,Unknown
+CHTR,Unknown
+CI,Unknown
+CINF,Unknown
+CL,Unknown
+CLX,Unknown
+CMCSA,Unknown
+CME,Unknown
+CMG,Unknown
+CMI,Unknown
+CMS,Unknown
+CNC,Unknown
+CNP,Unknown
+COF,Unknown
+COO,Unknown
+COP,Unknown
+COR,Unknown
+COST,Unknown
+CPAY,Unknown
+CPB,Unknown
+CPRT,Unknown
+CPT,Unknown
+CRL,Unknown
+CRM,Unknown
+CRWD,Unknown
+CSCO,Unknown
+CSGP,Unknown
+CSX,Unknown
+CTAS,Unknown
+CTLT,Unknown
+CTRA,Unknown
+CTSH,Unknown
+CTVA,Unknown
+CVS,Unknown
+CVX,Unknown
+CZR,Unknown
+D,Unknown
+DAL,Unknown
+DAY,Unknown
+DD,Unknown
+DE,Unknown
+DECK,Unknown
+DELL,Unknown
+DFS,Unknown
+DG,Unknown
+DGX,Unknown
+DHI,Unknown
+DHR,Unknown
+DIS,Unknown
+DLR,Unknown
+DLTR,Unknown
+DOC,Unknown
+DOV,Unknown
+DOW,Unknown
+DPZ,Unknown
+DRI,Unknown
+DTE,Unknown
+DUK,Unknown
+DVA,Unknown
+DVN,Unknown
+DXCM,Unknown
+EA,Unknown
+EBAY,Unknown
+ECL,Unknown
+ED,Unknown
+EFX,Unknown
+EG,Unknown
+EIX,Unknown
+EL,Unknown
+ELV,Unknown
+EMN,Unknown
+EMR,Unknown
+ENPH,Unknown
+EOG,Unknown
+EPAM,Unknown
+EQIX,Unknown
+EQR,Unknown
+EQT,Unknown
+ERIE,Unknown
+ES,Unknown
+ESS,Unknown
+ETN,Unknown
+ETR,Unknown
+EVRG,Unknown
+EW,Unknown
+EXC,Unknown
+EXPD,Unknown
+EXPE,Unknown
+EXR,Unknown
+F,Unknown
+FANG,Unknown
+FAST,Unknown
+FCX,Unknown
+FDS,Unknown
+FDX,Unknown
+FE,Unknown
+FFIV,Unknown
+FI,Unknown
+FICO,Unknown
+FIS,Unknown
+FITB,Unknown
+FMC,Unknown
+FOX,Unknown
+FOXA,Unknown
+FRT,Unknown
+FSLR,Unknown
+FTNT,Unknown
+FTV,Unknown
+GD,Unknown
+GDDY,Unknown
+GE,Unknown
+GEN,Unknown
+GILD,Unknown
+GIS,Unknown
+GL,Unknown
+GLW,Unknown
+GM,Unknown
+GNRC,Unknown
+GOOG,Unknown
+GOOGL,Unknown
+GPC,Unknown
+GPN,Unknown
+GRMN,Unknown
+GS,Unknown
+GWW,Unknown
+HAL,Unknown
+HAS,Unknown
+HBAN,Unknown
+HCA,Unknown
+HD,Unknown
+HES,Unknown
+HIG,Unknown
+HII,Unknown
+HLT,Unknown
+HOLX,Unknown
+HON,Unknown
+HPE,Unknown
+HPQ,Unknown
+HRL,Unknown
+HSIC,Unknown
+HST,Unknown
+HSY,Unknown
+HUBB,Unknown
+HUM,Unknown
+HWM,Unknown
+IBM,Unknown
+ICE,Unknown
+IDXX,Unknown
+IEX,Unknown
+IFF,Unknown
+INCY,Unknown
+INTC,Unknown
+INTU,Unknown
+INVH,Unknown
+IP,Unknown
+IPG,Unknown
+IQV,Unknown
+IR,Unknown
+IRM,Unknown
+ISRG,Unknown
+IT,Unknown
+ITW,Unknown
+IVZ,Unknown
+J,Unknown
+JBHT,Unknown
+JBL,Unknown
+JCI,Unknown
+JKHY,Unknown
+JNJ,Unknown
+JNPR,Unknown
+JPM,Unknown
+K,Unknown
+KDP,Unknown
+KEY,Unknown
+KEYS,Unknown
+KHC,Unknown
+KIM,Unknown
+KKR,Unknown
+KLAC,Unknown
+KMB,Unknown
+KMI,Unknown
+KMX,Unknown
+KO,Unknown
+KR,Unknown
+L,Unknown
+LDOS,Unknown
+LEN,Unknown
+LH,Unknown
+LHX,Unknown
+LIN,Unknown
+LKQ,Unknown
+LLY,Unknown
+LMT,Unknown
+LNT,Unknown
+LOW,Unknown
+LRCX,Unknown
+LULU,Unknown
+LUV,Unknown
+LVS,Unknown
+LW,Unknown
+LYB,Unknown
+LYV,Unknown
+MA,Unknown
+MAA,Unknown
+MAR,Unknown
+MAS,Unknown
+MCD,Unknown
+MCHP,Unknown
+MCK,Unknown
+MCO,Unknown
+MDLZ,Unknown
+MDT,Unknown
+MET,Unknown
+META,Unknown
+MGM,Unknown
+MHK,Unknown
+MKC,Unknown
+MKTX,Unknown
+MLM,Unknown
+MMC,Unknown
+MMM,Unknown
+MNST,Unknown
+MO,Unknown
+MOH,Unknown
+MOS,Unknown
+MPC,Unknown
+MPWR,Unknown
+MRK,Unknown
+MRNA,Unknown
+MRO,Unknown
+MS,Unknown
+MSCI,Unknown
+MSFT,Unknown
+MSI,Unknown
+MTB,Unknown
+MTCH,Unknown
+MTD,Unknown
+MU,Unknown
+NCLH,Unknown
+NDAQ,Unknown
+NDSN,Unknown
+NEE,Unknown
+NEM,Unknown
+NFLX,Unknown
+NI,Unknown
+NKE,Unknown
+NOC,Unknown
+NOW,Unknown
+NRG,Unknown
+NSC,Unknown
+NTAP,Unknown
+NTRS,Unknown
+NUE,Unknown
+NVDA,Unknown
+NVR,Unknown
+NWS,Unknown
+NWSA,Unknown
+NXPI,Unknown
+O,Unknown
+ODFL,Unknown
+OKE,Unknown
+OMC,Unknown
+ON,Unknown
+ORCL,Unknown
+ORLY,Unknown
+OXY,Unknown
+PANW,Unknown
+PARA,Unknown
+PAYC,Unknown
+PAYX,Unknown
+PCAR,Unknown
+PCG,Unknown
+PEG,Unknown
+PEP,Unknown
+PFE,Unknown
+PFG,Unknown
+PG,Unknown
+PGR,Unknown
+PH,Unknown
+PHM,Unknown
+PKG,Unknown
+PLD,Unknown
+PM,Unknown
+PNC,Unknown
+PNR,Unknown
+PNW,Unknown
+PODD,Unknown
+POOL,Unknown
+PPG,Unknown
+PPL,Unknown
+PRU,Unknown
+PSA,Unknown
+PSX,Unknown
+PTC,Unknown
+PWR,Unknown
+PYPL,Unknown
+QCOM,Unknown
+QRVO,Unknown
+RCL,Unknown
+REG,Unknown
+REGN,Unknown
+RF,Unknown
+RJF,Unknown
+RL,Unknown
+RMD,Unknown
+ROK,Unknown
+ROL,Unknown
+ROP,Unknown
+ROST,Unknown
+RSG,Unknown
+RTX,Unknown
+RVTY,Unknown
+SBAC,Unknown
+SBUX,Unknown
+SCHW,Unknown
+SHW,Unknown
+SJM,Unknown
+SLB,Unknown
+SMCI,Unknown
+SNA,Unknown
+SNPS,Unknown
+SO,Unknown
+SPG,Unknown
+SPGI,Unknown
+SRE,Unknown
+STE,Unknown
+STLD,Unknown
+STT,Unknown
+STX,Unknown
+STZ,Unknown
+SWK,Unknown
+SWKS,Unknown
+SYF,Unknown
+SYK,Unknown
+SYY,Unknown
+T,Unknown
+TAP,Unknown
+TDG,Unknown
+TDY,Unknown
+TECH,Unknown
+TEL,Unknown
+TER,Unknown
+TFC,Unknown
+TFX,Unknown
+TGT,Unknown
+TJX,Unknown
+TMO,Unknown
+TMUS,Unknown
+TPR,Unknown
+TRGP,Unknown
+TRMB,Unknown
+TROW,Unknown
+TRV,Unknown
+TSCO,Unknown
+TSLA,Unknown
+TSN,Unknown
+TT,Unknown
+TTWO,Unknown
+TXN,Unknown
+TXT,Unknown
+TYL,Unknown
+UAL,Unknown
+UBER,Unknown
+UDR,Unknown
+UHS,Unknown
+ULTA,Unknown
+UNH,Unknown
+UNP,Unknown
+UPS,Unknown
+URI,Unknown
+USB,Unknown
+V,Unknown
+VICI,Unknown
+VLO,Unknown
+VMC,Unknown
+VRSK,Unknown
+VRSN,Unknown
+VRTX,Unknown
+VST,Unknown
+VTR,Unknown
+VTRS,Unknown
+VZ,Unknown
+WAB,Unknown
+WAT,Unknown
+WBA,Unknown
+WBD,Unknown
+WDC,Unknown
+WEC,Unknown
+WELL,Unknown
+WFC,Unknown
+WM,Unknown
+WMB,Unknown
+WMT,Unknown
+WRB,Unknown
+WST,Unknown
+WTW,Unknown
+WY,Unknown
+WYNN,Unknown
+XEL,Unknown
+XOM,Unknown
+XYL,Unknown
+YUM,Unknown
+ZBH,Unknown
+ZBRA,Unknown
+ZTS,Unknown
